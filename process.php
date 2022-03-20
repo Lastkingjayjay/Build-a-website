@@ -15,7 +15,7 @@ if(isset($_POST['submit'])) {
 
 mail($to, $subject, $headers) ;
 
-header("location: contact.html");
+
 
 
 }
