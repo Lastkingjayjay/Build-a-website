@@ -28,3 +28,11 @@ function closeModal(modal) {
   modal.classList.remove("active");
   overlay.classList.remove("active");
 }
+
+function submit() {
+  var x = getElementById("submit");
+
+  if(x = button.addEventListener('click', () =>){
+
+}
+}
